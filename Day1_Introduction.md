@@ -12,25 +12,25 @@
 
 ### Types of Hacker based on their behavior🧑‍💻
 ##### 1. Black Hat Hacker
-     -> These hackers exploit security weaknesses for personal gain, to steal data, or cause harm. Their activities are illegal and harmful to individuals or organizations.
+ -> **These hackers exploit security weaknesses for personal gain, to steal data, or cause harm. Their activities are illegal and harmful to individuals or organizations.**
 #### 2. Grey Hat Hacker
-     -> They operate in a middle ground, sometimes breaching systems without permission but usually without malicious intent. They may report vulnerabilities but sometimes after unauthorized access.
+**They operate in a middle ground, sometimes breaching systems without permission but usually without malicious intent. They may report vulnerabilities but sometimes after unauthorized access.**
 
 #### 3. White Hat Hacker
-     -> These hackers use their skills legally and ethically to help organizations identify and fix security vulnerabilities. They work to improve cybersecurity and prevent malicious attacks.
+**These hackers use their skills legally and ethically to help organizations identify and fix security vulnerabilities. They work to improve cybersecurity and prevent malicious attacks.**
 
 
 ### Types of Hackers based on their skills
 
 #### 1. Newbie/ Noob
-     -> Don’t have any knowledge about hacking.
+ **Don’t have any knowledge about hacking.**
 #### 2. Script Kiddie
-     -> A script kiddie, skiddie, kiddie, or skid is a relatively unskilled individual who uses scripts or programs developed by others, primarily for malicious purposes.
+**A script kiddie, skiddie, kiddie, or skid is a relatively unskilled individual who uses scripts or programs developed by others, primarily for malicious purposes.**
 
 #### 3. Hacker 
-    -> Perfectly skilled, with less experience.
+**Perfectly skilled, with less experience.**
 #### 4. Elite/Pro Hacker
-    -> Perfectly skilled, with more experience.
+**Perfectly skilled, with more experience.**
 
 ### Why do we learn hacking?
 - **To prevent hackers from gaining access.**
